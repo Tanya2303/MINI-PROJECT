@@ -1,0 +1,2 @@
+# MINI-PROJECT
+Mini project (EMAIL CLASSIFIER)
